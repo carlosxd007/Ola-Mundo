@@ -1,4 +1,6 @@
 # Olá, Mundo!
- primeiro repositorio de git e github
+ primeiro repositório de git e github
  
- repositorio criado em uma aula ao vivo
+ repositório criado em uma aula ao vivo
+ 
+fiz uma alteração direta sem site! que impressionante 
