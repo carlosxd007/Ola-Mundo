@@ -3,4 +3,6 @@
  
  repositório criado em uma aula ao vivo
  
-fiz uma alteração direta sem site! que impressionante 
+fiz uma alteração direta no site! que impressionante!!
+
+Irei mandar para o Github!!
